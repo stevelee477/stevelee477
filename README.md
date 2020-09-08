@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevelee477&show_icons=true&theme=radical)
+- 🌱 I’m currently learning Python/C++
+- 📫 How to reach me: [lyh@lyh.moe](mailto:lyh@lyh.moe)
 
 <!--
 **stevelee477/stevelee477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevelee477&show_icons=true&theme=radical)
