@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python/C++
+- 🌱 I’m currently learning Python/C++/Go
+- 🔭 I’m currently working on 6.824
 - 📫 How to reach me: [lyh@lyh.moe](mailto:lyh@lyh.moe)
 
 <!--
