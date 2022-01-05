@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on 6.824
 - 📫 How to reach me: [lyh@lyh.moe](mailto:lyh@lyh.moe)
 
+@OSSDAO-ORG•AIRDROP-0xDfe9f165C75035ABbe59483Eff51374bC68E4Ce9
+
 <!--
 **stevelee477/stevelee477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
