@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python/C++/Go
-- 🔭 I’m currently working on 6.824
+- 🔭 I’m currently working on Persistent Memory/File System
 - 📫 How to reach me: [lyh@lyh.moe](mailto:lyh@lyh.moe)
 
 <!--
