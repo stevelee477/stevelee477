@@ -6,3 +6,9 @@ I'm a **C++ Backend Developer** based in Shanghai, China.
 - 🔧 Interested in systems programming, performance optimization, and storage systems
 - 🌱 Always learning more about Linux, networking, and distributed systems
 - 📫 Reach me at [lyh@lyh.moe](mailto:lyh@lyh.moe)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="Steve's GitHub stats">
+</p>
