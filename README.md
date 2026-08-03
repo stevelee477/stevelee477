@@ -1,23 +1,8 @@
-### Hi there 👋
+# Hi, I'm Steve 👋
 
-- 🌱 I’m currently learning Python/C++/Go
-- 🔭 I’m currently working on Persistent Memory/File System
-- 📫 How to reach me: [lyh@lyh.moe](mailto:lyh@lyh.moe)
+I'm a **C++ Backend Developer** based in Shanghai, China.
 
-<!--
-**stevelee477/stevelee477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevelee477&show_icons=true&theme=radical)
+- 💻 Building reliable, high-performance backend systems with modern C++
+- 🔧 Interested in systems programming, performance optimization, and storage systems
+- 🌱 Always learning more about Linux, networking, and distributed systems
+- 📫 Reach me at [lyh@lyh.moe](mailto:lyh@lyh.moe)
